@@ -1,4 +1,4 @@
-package blended.sbt.testlogconfig
+package de.wayofquality.sbt.testlogconfig
 
 import java.nio.file.Files
 
