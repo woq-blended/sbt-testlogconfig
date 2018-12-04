@@ -1,1 +1,4 @@
-= Logback config generator to log detailed sbt test executions to dedicated files
+= sbt-logtestconfig
+
+Logback config generator to log detailed sbt test executions to dedicated files
+
