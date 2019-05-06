@@ -2,3 +2,8 @@
 
 Logback config generator to log detailed sbt test executions to dedicated files
 
+== Changelog
+
+=== sbt-testlogconfig 0.1.0 - 2019-05-06
+
+* Initial public release
